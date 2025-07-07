@@ -102,7 +102,7 @@ completed: A boolean indicating if the todo is completed.
 
 
 ## Deployment
-- **[GitHub Repo]** [https://github.com/Asim0712/Dashboard-Task-Management--SBA-9]
+- **[GitHub Repo]** [https://github.com/Asim0712/context-api-lab3/tree/master]
 
 ## Resources
 - [https://react.dev/reference/react/useEffect]
@@ -116,7 +116,7 @@ completed: A boolean indicating if the todo is completed.
 
 
 ## Acknowledgments
-Created by Asim Daud Khan as part of Module 9, Skills-Based Assessment to test my understaning of React components, state management, Typescript integration, form handling, and component composition.
+Created by Asim Daud Khan as part of Module 10, Skills-Based Assessment to test my understaning of React components, state management, Typescript integration, form handling, and component composition.
 
 Feedback and suggestions are welcome!
 
